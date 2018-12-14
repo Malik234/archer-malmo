@@ -1,0 +1,46 @@
+.content{
+	 font-size:20px;
+    font-family:Arial;
+    margin: 30px 30px 30px 30px;
+    text-align: center;
+    background-color: white;
+
+    
+    padding: 15px;
+}
+.font{
+	font-family:Arial; 
+	
+
+}
+.italic{
+	font-style: italic;
+} 
+
+.border{
+	border: 2px
+	font-size:30px;
+	text-align: center;
+	font-family: Arial
+	
+}
+.content{
+    font-size:20px;
+    font-family:Arial;
+    border: 2px solid black;
+    padding: 15px;
+ }
+ .bckgrnd{
+ 	
+	background-color: SkyBlue;
+ }
+ #title{
+ 	font-size: 30px
+
+ }
+ img{
+ 	align-self: center;
+ }
+ .content:hover p{
+ 	color:green;
+ }
